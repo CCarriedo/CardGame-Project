@@ -1,0 +1,24 @@
+﻿  BasicAI.cpp
+  Card.cpp
+  Game.cpp
+  Human.cpp
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\BasicAI.cpp(17,31): warning C4267:  'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\Human.cpp(128,35): warning C4267:  'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\Human.cpp(132,52): warning C4267:  'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\Human.cpp(164,20): warning C4018:  '<': signed/unsigned mismatch
+  MediumAI.cpp
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\Human.cpp(176,21): warning C4018:  '<': signed/unsigned mismatch
+  PackSingleton.cpp
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\MediumAI.cpp(16,31): warning C4267:  'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\PackSingleton.cpp(59,45): warning C4267:  'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  PseudoRandomNumberGenerator.cpp
+  SmartAI.cpp
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\PackSingleton.cpp(66,43): warning C4267:  '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\SmartAI.cpp(16,31): warning C4267:  'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\SmartAI.cpp(52,20): warning C4018:  '<': signed/unsigned mismatch
+  Source.cpp
+  TTG_Player.cpp
+  Generating Code...
+D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\TrickTakingGame\SmartAI.cpp(64,21): warning C4018:  '<': signed/unsigned mismatch
+  TrickTakingGame.vcxproj -> D:\Uni Work\UNI CLASSES\YEAR 2\Data Structures\ASSIGNMENT\CarmineCarriedoAssignment2\TrickTakingGameV3\TrickTakingGame\x64\Debug\TrickTakingGame.exe
